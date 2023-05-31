@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 116: menu statement expects a non-empty block.
+    menu optional_name:
+        ^
+
+Ren'Py Version: Ren'Py 8.0.3.22090809
+Tue May 30 09:26:51 2023
